@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Adi👋
 
-<!--
-**Aditya4186/Aditya4186** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring AI & Generative AI Engineer
 
-Here are some ideas to get you started:
+I'm building my skills in Python, Machine Learning, Deep Learning, and Generative AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Python
+- Natural Language Processing (NLP)
+- Machine Learning
+- Deep Learning
+- Generative AI
+
+## My Goal
+To build practical AI projects and grow as an AI Engineer.
+
+## Connect with Me
+- LinkedIn: https://www.linkedin.com/in/aditya-gunjal-697100403?utm_source=share_via&utm_content=profile&utm_medium=member_android
